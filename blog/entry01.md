@@ -2,17 +2,14 @@
 ##### 10/13/2025
 # Topic I've Decided on and Why
 
-#### The topic I've decided on is the justice system. This is because I have always been a person who feels strongly about equality, and all people getting what they deserve. I had been introduced to the idea of being a lawyer when I was a child, and since then I've grown very passionate of it. Specifically, I want to be a human rights attorney because I care deeply about standing up for people who are often ignored or mistreated by society. I’ve always been driven by a desire to help others, especially those who don’t have the  power to defend themselves. Whether it’s fighting against discrimination, protecting refugees, or pushing for fair treatment in the justice system, I want to use the law as a tool to create real change. Being a human rights lawyer would allow me to combine my passion for justice with meaningful, people-centered work.
+#### The topic I've decided on is the justice system. This is because I have always been a person who feels strongly about equality, and all people getting what they deserve. I had been introduced to the idea of being a lawyer when I was a child, and since then I've grown very passionate of it. Specifically, I want to be a human rights attorney because I care deeply about standing up for people who are often ignored or mistreated by society. In roder to learn more about what I might be doing as a justice attorney, I used ["What does a Justice Lawyer Do"](https://www.law.buffalo.edu/blog/What_Social_Justice_Lawyers_Do.html?utm_source) and ["Social Justice Lawyer 101: Tasks, Salary, Career Paths"](https://www.humanrightscareers.com/magazine/social-justice-lawyer-101-tasks-salary-career-paths/?utm_source) to learn more about the field. I’ve always been driven by a desire to help others, especially those who don’t have the  power to defend themselves. Whether it’s fighting against discrimination, protecting refugees, or pushing for fair treatment in the justice system, I want to use the law as a tool to create real change. Being a human rights lawyer would allow me to combine my passion for justice with meaningful, people-centered work.
 
 # Backup Ideas
 
 #### My backup idea is entering the field of social work. This is because through my life, I've been surrounded by people who have always helped me with whatever I've needed, as well as doing the same for others. This has inspired me to persue something that impacts another person's life. I want to be someone who shows up for people when they’re at their most vulnerable self, whether that’s as a social worker, a therapist, or another supportive role. Social work allows me to turn my empathy and life experiences into a force for positive change in my community. Whether through social work or human rights law, my goal remains the same: to stand with people who are struggling, advocate for their needs, and be part of a system that uplifts rather than ignores them. Despite all this, I had chosen the justice system because I've been passionate about it all my life, while social work is a newfound passion.
 
-# Sources:
-#### https://www.law.buffalo.edu/blog/What_Social_Justice_Lawyers_Do.html?utm_source
-#### https://www.humanrightscareers.com/magazine/social-justice-lawyer-101-tasks-salary-career-paths/?utm_source
-#### https://law.duke.edu/academics/course/242?utm_source
-
+# Engineering Design Process
+#### I am currently on the first stage of the Engineering Design Process, which is to define the problem. The problem I'm defining is all people being treated equally, and not speaking up for justice. The first step in solving this problem is continuing to do research about the issue to find stories of people going through this, and to spread awareness of the issue with my peers.
 # How to get here:
 #### In order to help me achieve these goals, I still have a lot to learn about the field of law. To help me do this, I will expand my knowledge by applying to internships, like Ladders for Leaders or Childrens Law Center, which can teach me about defending non-profit organizations, learn about the law when it comes to family, and so much more.
 
