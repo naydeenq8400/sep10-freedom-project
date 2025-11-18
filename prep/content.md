@@ -2,8 +2,7 @@
 Topic: **Justice system**
 
 ## Overview/Introduction/Context
-* Text
-* Text
+* Technological advancements have significantly impacted the justice system over time. Each new invention has helped make law enforcement, investigations, and court processes more efficient, secure, and fair. By looking at the timeline and purpose of these inventions, we can better understand how technology continues to improve the way justice is served today. Trough tbhis is many different inventions and when they were created, as well as how we still use them today in the jsutice system.
 
 ## Part A: existing technology
 ### Cameras and CCTV Equipment  
