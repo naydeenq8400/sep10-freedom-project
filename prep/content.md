@@ -57,7 +57,43 @@ Topic: **Justice system**
 * Ensures evidence is stored securely, properly recorded, and easy to find, which is crucial for investigations and court cases.
   * https://www.kaseware.com/evidence-management
   * i seached up "justice system evidence"
-   
+
+
+ ## Order of Inventions from Creation
+ ## 1940s-Cameras and CCTV Equipment
+   * When and Why Created: CCTV technology was first developed in the late 1940s, with the first practical CCTV system installed in 1942 in Germany to observe launch pads during WWII. Its widespread use began in the 1960s and 1970s for surveillance.
+   * Current Use in Justice System: CCTV cameras are now extensively used for crime prevention, evidence collection, and monitoring public and private spaces. They help authorities identify suspects and provide crucial evidence in court.
+
+## 1940s-Computers and Data Storage Devices
+* When and Why Created: Computers have been around since the 1940s, with personal computers emerging in the 1970s. Data storage devices have evolved from punch cards to modern SSDs and cloud storage.
+* Current Use in Justice System: They are used for storing and analyzing vast amounts of digital evidence, managing case files, and maintaining criminal records securely.
+
+## 1980s-Fingerprint Scanners
+* When and Why Created: The use of fingerprinting for identification began in the early 20th century. The first automated fingerprint identification system (AFIS) was developed in the 1980s.
+* Current Use in Justice System: Fingerprint scanners are vital tools for verifying identities, solving crimes, and maintaining secure access to restricted areas. They are standard in criminal investigations and criminal record management.
+
+## 19th century- Ballistics Testing Equipment
+* When and Why Created: Modern ballistics testing tools, including firearms and bullet analysis, have been refined since the 19th century, with significant advancements in the 20th century.
+* Current Use in Justice System: Ballistics testing helps match bullets and firearms to crimes, solving shooting incidents, and providing evidence in court to link suspects to weapons.
+
+
+## 1990s- Digital Forensics Software
+* When and Why Created: Digital forensics tools began developing in the 1990s to analyze electronic evidence.
+* Current Use in Justice System: Digital forensics software is crucial for extracting, analyzing, and presenting electronic evidence, such as emails, files, and internet activity, in investigations and court proceedings.
+
+## 2000s-Mobile Jail Management
+* When and Why Created: Mobile jail management systems emerged in the 2000s to improve the efficiency of managing inmates.
+* Current Use in Justice System: These systems allow officers to access and update inmate information on the go, improving security, accuracy, and operational efficiency.
+
+## 2000s- Court Scheduling and Docketing Software
+* When and Why Created: Such software became popular in the early 2000s to streamline court operations.
+* Current Use in Justice System: It helps manage court calendars, case priorities, and reporting, ensuring timely justice and efficient court management.
+
+## 2000 to 2010s-Evidence Management Software
+* When and Why Created: Developed in the late 2000s and early 2010s to digitalize evidence handling.
+* Current Use in Justice System: It ensures the secure, organized, and transparent management of evidence, from collection to courtroom presentation, reducing tampering and errors.
+
+  
 ## Part B: possible future technology
 * Idea
   * Detail
