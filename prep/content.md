@@ -4,7 +4,7 @@ Topic: **Justice system**
 ## Overview/Introduction/Context
 * Technological advancements have significantly impacted the justice system over time. Each new invention has helped make law enforcement, investigations, and court processes more efficient, secure, and fair. By looking at the timeline and purpose of these inventions, we can better understand how technology continues to improve the way justice is served today. Trough tbhis is many different inventions and when they were created, as well as how we still use them today in the jsutice system.
 
-## Part A: existing technology
+## Existing Technology
 ### Cameras and CCTV Equipment  
 * searched up "equipments for law enforcment"
    * https://www.nyc.gov/assets/nypd/downloads/pdf/public_information/post-final/cctv-systems-nypd-Impact-and-use-policy_10.26.23.pdf
@@ -93,6 +93,11 @@ Topic: **Justice system**
 * Current Use in Justice System: It ensures the secure, organized, and transparent management of evidence, from collection to courtroom presentation, reducing tampering and errors.
 
   
-## Part B: possible future technology
-* Idea
-  * Detail
+## Future Technology
+* AI-Powered Real-Time Analysis System used for Crime Scenes
+  * An advanced AI system that uses drones, cameras, and sensors that can instantly analyze a crime scene and identify potential evidence in real-time. It would speed investigations and higher the accuracy in evidence collection, leading to faster justice delivery.
+  * [AI generated image of analysis system](https://api.deepai.org/job-view-file/ca6b3200-8cb7-4c31-ad96-49ce75febe8f/outputs/output.jpg)
+
+ * Universal Digital Evidence Ledger with Blockchain
+    * A secure, blockchain-based platform that records every piece of digital evidence from collection to courtroom presentation, ensuring chain-of-custody integrity. This would eliminate tampering with the system and build greater trust from the public in the justice process.
+    * [AI generated image of the digital ledger](https://api.deepai.org/job-view-file/26432871-5c01-4d80-9954-6baf698bd3ed/outputs/output.jpg)
