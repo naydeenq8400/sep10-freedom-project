@@ -62,7 +62,6 @@ Topic: **Justice system**
  ## 1940s-Cameras and CCTV Equipment
    * When and Why Created: CCTV technology was first developed in the late 1940s, with the first practical CCTV system installed in 1942 in Germany to observe launch pads during WWII. Its widespread use began in the 1960s and 1970s for surveillance.
    * Current Use in Justice System: CCTV cameras are now extensively used for crime prevention, evidence collection, and monitoring public and private spaces. They help authorities identify suspects and provide crucial evidence in court.
-
 ## 1940s-Computers and Data Storage Devices
 * When and Why Created: Computers have been around since the 1940s, with personal computers emerging in the 1970s. Data storage devices have evolved from punch cards to modern SSDs and cloud storage.
 * Current Use in Justice System: They are used for storing and analyzing vast amounts of digital evidence, managing case files, and maintaining criminal records securely.
