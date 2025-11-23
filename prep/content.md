@@ -10,6 +10,7 @@ Topic: **Justice system**
    * https://www.nyc.gov/assets/nypd/downloads/pdf/public_information/post-final/cctv-systems-nypd-Impact-and-use-policy_10.26.23.pdf
 * Cameras that record video footage of public spaces, crime scenes, or specific areas.Used for surveillance, gathering evidence, and helping police review crimes. It helps officers see what happened in real-time or after an event, which can solve crimes faster.
    * [Equipment](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.a1securitycameras.com%2Fcamera-accessories%2F%3Fsrsltid%3DAfmBOoqNEgN6lfYC2MKk6xH7LbxEI9rjDtbQ9acY9W3t-2ODs_QmfleN&psig=AOvVaw03BuRORI4boHmOTenE-sh1&ust=1762212762781000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCNCxz6PQ1JADFQAAAAAdAAAAABAE)
+   * [Image of cameras and CCTV equipment](https://m.media-amazon.com/images/I/611mZYJd4iL._AC_UF894,1000_QL80_.jpg)
 
 ### Fingerprint Scanners  
 
@@ -17,6 +18,7 @@ Topic: **Justice system**
 * Used by police to identify suspects and verify identities quickly and accurately. It helps catch criminals and solve cases.
    * https://en.wikipedia.org/wiki/Fingerprint_scanner
     * [fingerprint scanner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.uscybersecurity.net%2Ffingerprint-scanners%2F&psig=AOvVaw3h_tCHL5KIyXqZmYKFsYve&ust=1762213097327000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCIic-MHR1JADFQAAAAAdAAAAABAE)
+    * [Image of fingerprint scanner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR76Vc-oC--cWR3Feq8aGI-3BRk8qitrP3Ojw&s)
  
  ### Ballistics Testing Equipment
  * Tools that analyze bullets, cartridges, and firearms.
@@ -37,7 +39,7 @@ Topic: **Justice system**
  * Special software that collects and analyzes digital evidence from electronic devices.
  * Used to find clues in computers and phones, like deleted files or location data, which helps solve crimes like fraud or murder.
    * https://www.nicepublicsafety.com/glossary/digital-forensics-software-system
-   * searchewd up "software justice system"
+   * searched up "software justice system"
   
  ### Mobile Jail Management
  * mobile app that helps officers manage inmates from handheld devices.
@@ -95,8 +97,7 @@ Topic: **Justice system**
 ## Future Technology
 * AI-Powered Real-Time Analysis System used for Crime Scenes
   * An advanced AI system that uses drones, cameras, and sensors that can instantly analyze a crime scene and identify potential evidence in real-time. It would speed investigations and higher the accuracy in evidence collection, leading to faster justice delivery.
-  * [AI generated image of analysis system](https://api.deepai.org/job-view-file/ca6b3200-8cb7-4c31-ad96-49ce75febe8f/outputs/output.jpg)
-
+  * [AI generated image of analysis system](https://api.deepai.org/job-view-file/0c29441a-e69b-40ac-876a-fcfc80b543cf/outputs/output.jpg)
  * Universal Digital Evidence Ledger with Blockchain
     * A secure, blockchain-based platform that records every piece of digital evidence from collection to courtroom presentation, ensuring chain-of-custody integrity. This would eliminate tampering with the system and build greater trust from the public in the justice process.
-    * [AI generated image of the digital ledger](https://api.deepai.org/job-view-file/26432871-5c01-4d80-9954-6baf698bd3ed/outputs/output.jpg)
+    * [AI generated image of the digital ledger](https://api.deepai.org/job-view-file/534fb9ec-1b84-4457-a526-dc13d3d43d1a/outputs/output.jpg)
