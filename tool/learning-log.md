@@ -1,17 +1,19 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: **A-frame**
 
 ---
 
+### 3/22/26:
+* I used starter code copied that in my ide to tinker with my tool so i used [starter code](https://aframe.io/docs/1.7.0/introduction/) it was helpful since i didn't now how to start
+* With the starter code i played around with the positions, colors and shapes
+* I watched videos in order to have more insight and information about my tool [Youtube](https://www.youtube.com/playlist?list=PLWkWuhMLkR7D_VSEMkj45NIgF8i2dlUce)
+* With the videos that i watched i learned to make more complicated shapes and objects
 ### X/X/XX:
 * Text
 
-### X/X/XX:
-* Text
 
-
-<!-- 
+<!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
 * Challenges, a-ha moments, etc
