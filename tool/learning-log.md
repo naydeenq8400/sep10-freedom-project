@@ -5,10 +5,10 @@
 ---
 
 ### 3/22/26:
-* I used starter code copied that in my ide to tinker with my tool so i used [starter code](https://aframe.io/docs/1.7.0/introduction/) it was helpful since i didn't now how to start
-* With the starter code i played around with the positions, colors and shapes
+* I used starter code copied that in my ide to tinker with my tool so I used [starter code](https://aframe.io/docs/1.7.0/introduction/) it was helpful since I didn't now how to start
+* With the starter code I played around with the positions, colors and shapes
 * I watched videos in order to have more insight and information about my tool [Youtube](https://www.youtube.com/playlist?list=PLWkWuhMLkR7D_VSEMkj45NIgF8i2dlUce)
-* With the videos that i watched i learned to make more complicated shapes and objects
+* With the videos that I watched I learned to make more complicated shapes and objects
 ### 4/12/26:
 * While I was learning my tool, I came across the Aframe starter code for its 3 unique shapes
 * This code made it easier for me to start tinkering with new shapes to create different objects.
@@ -34,7 +34,7 @@
 * I was able to position the cone in a way where the flat side was faced towards the top of the square, but my issue was where the cone was ending up. * I had to refresh my memory on the (x,y,z) way of positioning things, and re-learned that x is right or left, y is up or down and z is forward and backward.
 * With all of this in mind, I now have the ability to properly position the cone tomorrow.
 ### 4/17/26 :
-* I was finally able to posotion the cone corretly!!
+* I was finally able to position the cone corretly!!
 * The official positions for the cone turned out to be (-2 2 -4), as the position of the box shape was (-1 0.5 -3).
 * With all of this in mind, I´m now aware of the tips and tricks of Aframe, and am able to start drafting my invention.
 
