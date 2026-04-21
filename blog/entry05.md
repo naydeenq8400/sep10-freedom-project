@@ -35,7 +35,7 @@ In addition to my detailed plan, I watched YouTube videos to learn how to create
 # Skills
 1. Problem solving- when I was having troubles with positioning, I felt very frustrated, as this is something we went over in class, but I did not remember as well as I thought I did. Instead on giving up, I went back to my old notes as well as the class slides. and reviewed the order for positioning.
 2. Time management(realistic)- I learned that organizing what I want to get done day by day can really help me be as efficient as possible when trying to get multiple tasks done. By doing this over the course nof a couple of days, I was able to act very productively during class.
-3. Organization- I learned that the point of filling in Learning Logs every week was to help me keep track of the last thing I did. By doing my learning lof on 4/22, I was able to continue my work from there, and finish thr series of tasks I assigned myself, eventually leading to this blog.
+3. Organization- I learned that the point of filling in Learning Logs every week was to help me keep track of the last thing I did. By doing my learning log on 4/22, I was able to continue my work from there, and finish thr series of tasks I assigned myself, eventually leading to this blog.
 
 # Next Steps
 Next, I plan to start drafting my actual invention using the skills I’ve practiced. Now that I understand how to position objects and use basic shapes, I can begin building a more complex design. I also want to continue improving my understanding of A-Frame by working with more shapes and possibly adding colors. I especially plan to manage my time better by setting more realistic daily goals so I can stay productive and consistent.
