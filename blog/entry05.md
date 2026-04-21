@@ -39,6 +39,7 @@ In addition to my detailed plan, I watched YouTube videos to learn how to create
 
 # Next Steps
 Next, I plan to start drafting my actual invention using the skills I’ve practiced. Now that I understand how to position objects and use basic shapes, I can begin building a more complex design. I also want to continue improving my understanding of A-Frame by working with more shapes and possibly adding colors. I especially plan to manage my time better by setting more realistic daily goals so I can stay productive and consistent.
+
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
