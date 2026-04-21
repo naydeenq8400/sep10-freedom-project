@@ -31,7 +31,8 @@
  3.  Adjust position, size, and rotation to make it look correct
 * instead of creating the rough draft of my invention, I focused on the house shape that I wanted to practice with, as that requires two simple shapes, while I´m visializing my invention as something that will require a lot more than two simple shapes.
 * A struggle I had today was the positioning of the shapes. A typical house with the two shapes I´m using is the cone stacked directly on top of the square, with the circle-side agains the top of the square.
-* I was able to position the cone in a way where the flat side was faced towards the top of the square, but my issue was where the cone was ending up. * I had to refresh my memory on the (x,y,z) way of positioning things, and re-learned that x is right or left, y is up or down and z is forward and backward.
+* I was able to position the cone in a way where the flat side was faced towards the top of the square, but my issue was where the cone was ending up.
+* I had to refresh my memory on the (x,y,z) way of positioning things, and re-learned that x is right or left, y is up or down and z is forward and backward.
 * With all of this in mind, I now have the ability to properly position the cone tomorrow.
 ### 4/17/26 :
 * I was finally able to position the cone corretly!!
