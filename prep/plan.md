@@ -1,14 +1,18 @@
 # Plan
 
 ## Wireframes
-* [Mobile](https://wireframe.cc/JjnVJF)
-* [Desktop](https://wireframe.cc/EetKzT)
+* [Mobile]()
+* [Desktop]()
 
 ## Colors
-* `#ABC123`
+* `##D8B2D8`
+* `#000000`
+* `#f7eff7`
+* `#403540`
 
 ## Fonts
-* [Text](URL)
+* [Raleway](https://fonts.google.com/specimen/Raleway)
+* [Merriweather](https://fonts.google.com/specimen/Merriweather)
 
 ## Timeline
 
