@@ -5,10 +5,10 @@
 * [Desktop]()
 
 ## Colors
-* `##D8B2D8`
-* `#000000`
-* `#f7eff7`
-* `#403540`
+* `##D8B2D8`Shade of purple
+* `#000000`Black
+* `#f7eff7`Shade of purple
+* `#403540`Shade of purple
 
 ## Fonts
 * [Raleway](https://fonts.google.com/specimen/Raleway)
