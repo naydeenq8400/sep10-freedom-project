@@ -7,7 +7,7 @@
 ## Colors
 * `One shade of purple:# D8B2D8
 * Another shade of purple: #f7eff7
-Another shade of purple: #403540
+* Another shade of purple: #403540
 Black: #000000`
 
 ## Fonts
