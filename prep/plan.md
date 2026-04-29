@@ -7,19 +7,20 @@ NOTE TO/BY MR. MUELLER: gitdoc erased first draft of plan.md
 * [Desktop]()
 
 ## Colors
-* `One shade of purple:# D8B2D8
+* One shade of purple:# D8B2D8
 * Another shade of purple: #f7eff7
-* Another shade of purple: #403540
-Black: #000000`
+* A third shade of purple: #403540
+* Black: #000000
 
 ## Fonts
-* [Text](URL)
-
+* [Raleway](https://fonts.google.com/specimen/Raleway)
+* [Indie Flower](https://fonts.google.com/specimen/Indie+Flower?preview.script=Latn)
 ## Timeline
 
 #### MVP
 
-* Task/Timeline
+* 4/25 and 4/26 day 1 and 2 - edit wireframe and finalize it for website
+* 4/27 day 3-
 
 ---
 
