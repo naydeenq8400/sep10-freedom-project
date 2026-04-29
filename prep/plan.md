@@ -1,5 +1,7 @@
 # Plan
 
+NOTE TO/BY MR. MUELLER: gitdoc erased first draft of plan.md
+
 ## Wireframes
 * [Mobile]()
 * [Desktop]()
