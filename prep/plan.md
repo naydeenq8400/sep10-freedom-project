@@ -3,8 +3,8 @@
 NOTE TO/BY MR. MUELLER: gitdoc erased first draft of plan.md
 
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+* [Mobile](https://wireframe.cc/JjnVJF)
+* [Desktop](https://wireframe.cc/EetKzT)
 
 ## Colors
 * One shade of purple:# D8B2D8
